@@ -14,4 +14,4 @@ npm run serve
 
 ### Notes
 
-1. Longer string (8 or plus) may break the app
+1. Long string (8 or plus) may take long time to get the results
