@@ -12,7 +12,9 @@
       </form>
     </div>
 
-    <p>{{ results }}</p>
+    <p>
+      <b>{{ results }}</b>
+    </p>
   </div>
 </template>
 

@@ -11,3 +11,7 @@ npm install
 ```
 npm run serve
 ```
+
+### Notes
+
+1. Longer string (8 or plus) may break the app
